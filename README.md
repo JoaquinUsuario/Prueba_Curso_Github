@@ -1,1 +1,2 @@
-# Prueba_Curso_Github\n## Autor\nCreado por Joaquin
+# Mi Primer Repositorio
+\nEste es mi primer proyecto usando Git.
