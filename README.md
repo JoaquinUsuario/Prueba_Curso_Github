@@ -1,2 +1,2 @@
-# Prueba_Curso_Github\n## Autor\nCreado por Joaquin
-\n## Descripción\nEste repositorio contiene ejemplos básicos de Git.
+# Mi Primer Repositorio
+\nEste es mi primer proyecto usando Git.
